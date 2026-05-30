@@ -330,7 +330,7 @@ class BMICalculator(QMainWindow):
 
         # author link button
         author_link = QLabel(
-            '<a href="https://linktr.ee/nhy6ck" style="color: #007ACC; text-decoration: none; font-weight: 600;">author</a>')
+            '<a href="https://github.com/valezks2" style="color: #007ACC; text-decoration: none; font-weight: 600;">author</a>')
         author_link.setStyleSheet("margin: 0 8px; font-size: 18px;")
         author_link.setOpenExternalLinks(True)
 
